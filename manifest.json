@@ -3,7 +3,7 @@
 
   "name": "Trigger",
   "description": "Displays useful Trigger links and allow you to go directly to a task",
-  "version": "1.2",
+  "version": "1.3",
 
   "icons": { "128": "icon_128.png" },
 
