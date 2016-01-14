@@ -2,14 +2,14 @@
   "manifest_version": 2,
 
   "name": "Trigger",
-  "description": "Displays a popup with useful Trigger links",
-  "version": "1.0",
+  "description": "Displays useful Trigger links and allow you to go directly to a task",
+  "version": "1.1",
 
   "icons": { "128": "icon_128.png" },
 
   "browser_action": {
     "default_icon": "icon_19.png",
     "default_popup": "popup.html",
-    "default_title": "Click here to see Trigger useful links!"
+    "default_title": "Click here to see Trigger useful links or go directly to a task!"
   }
 }
